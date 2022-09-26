@@ -1,0 +1,13 @@
+.main{
+    background-color: rgb(199, 187, 187);
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    padding-left: 20px;
+    color: white;
+}
+.form2{
+    color: black;
+    background-color: rgb(59, 163, 163);
+    margin-left: -20px;
+}
