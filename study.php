@@ -25,6 +25,25 @@
      $a=null;
      var_dump($a);
      echo strlen("hello word");
+     echo "<br>";
+     define("GREETING", "Welcome here!");
+     echo GREETING;
+     echo "<br>";
+     for($a=0;$a<10;$a++){
+        if($a==4){
+           break;
+        }
+        echo "the number is : $a <br>";
+     }
+    //  $d=4;
+    
+    //  $power=$d**(sqrt(9));
+    //  echo $power;
+    // $t=date("H");
+    //  if ($t <"20") 
+    //     echo "Have a good day!"
+         
+
     ?>
 </body>
 </html>
